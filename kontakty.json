@@ -1,0 +1,182 @@
+[
+    {
+        "imie": "John",
+        "nazwisko": "Doe",
+        "tel": "123456789",
+        "email": "john.doe@example.com",
+        "ulica": "Main Street",
+        "miasto": "New York",
+        "kod": "10001"
+    },
+    {
+        "imie": "Jane",
+        "nazwisko": "Smith",
+        "tel": "987654321",
+        "email": "jane.smith@example.com",
+        "ulica": "Second Avenue",
+        "miasto": "Los Angeles",
+        "kod": "90001"
+    },
+    {
+        "imie": "Adam",
+        "nazwisko": "Kowalski",
+        "tel": "555123456",
+        "email": "adam.kowalski@example.pl",
+        "ulica": "Kwiatowa",
+        "miasto": "Warszawa",
+        "kod": "00-001"
+    },
+    {
+        "imie": "Ewa",
+        "nazwisko": "Nowak",
+        "tel": "555987654",
+        "email": "ewa.nowak@example.pl",
+        "ulica": "Słoneczna",
+        "miasto": "Kraków",
+        "kod": "30-001"
+    },
+    {
+        "imie": "Artur",
+        "nazwisko": "Drozd",
+        "tel": "123456789",
+        "email": "adro@abc.de",
+        "ulica": "Jasna 2",
+        "miasto": "Poznań",
+        "kod": "12-345"
+    },
+    {
+        "imie": "Artur",
+        "nazwisko": "Glapiński",
+        "tel": "123456789",
+        "email": "aglap@abc.de",
+        "ulica": "Srebrna 2",
+        "miasto": "Lublin",
+        "kod": "12-345"
+    },
+    {
+        "imie": "Anna",
+        "nazwisko": "Zielińska",
+        "tel": "789456123",
+        "email": "anna.zielinska@example.pl",
+        "ulica": "Lipowa",
+        "miasto": "Gdańsk",
+        "kod": "80-001"
+    },
+    {
+        "imie": "Piotr",
+        "nazwisko": "Wiśniewski",
+        "tel": "654321987",
+        "email": "piotr.wisniewski@example.pl",
+        "ulica": "Dębowa",
+        "miasto": "Szczecin",
+        "kod": "70-001"
+    },
+    {
+        "imie": "Katarzyna",
+        "nazwisko": "Lewandowska",
+        "tel": "321654987",
+        "email": "k.lewandowska@example.pl",
+        "ulica": "Brzozowa",
+        "miasto": "Łódź",
+        "kod": "90-001"
+    },
+    {
+        "imie": "Marek",
+        "nazwisko": "Nowicki",
+        "tel": "987123654",
+        "email": "marek.nowicki@example.pl",
+        "ulica": "Topolowa",
+        "miasto": "Katowice",
+        "kod": "40-001"
+    },
+    {
+        "imie": "Zofia",
+        "nazwisko": "Kamińska",
+        "tel": "456789123",
+        "email": "zofia.kaminska@example.pl",
+        "ulica": "Jesionowa",
+        "miasto": "Bydgoszcz",
+        "kod": "85-001"
+    },
+    {
+        "imie": "Tomasz",
+        "nazwisko": "Wójcik",
+        "tel": "123789456",
+        "email": "tomasz.wojcik@example.pl",
+        "ulica": "Sosnowa",
+        "miasto": "Toruń",
+        "kod": "87-100"
+    },
+    {
+        "imie": "Magdalena",
+        "nazwisko": "Kowalczyk",
+        "tel": "789123456",
+        "email": "magdalena.kowalczyk@example.pl",
+        "ulica": "Akacjowa",
+        "miasto": "Rzeszów",
+        "kod": "35-001"
+    },
+    {
+        "imie": "Paweł",
+        "nazwisko": "Zając",
+        "tel": "321987654",
+        "email": "pawel.zajac@example.pl",
+        "ulica": "Grabowa",
+        "miasto": "Opole",
+        "kod": "45-001"
+    },
+    {
+        "imie": "Agnieszka",
+        "nazwisko": "Król",
+        "tel": "654789321",
+        "email": "agnieszka.krol@example.pl",
+        "ulica": "Cicha",
+        "miasto": "Białystok",
+        "kod": "15-001"
+    },
+    {
+        "imie": "Krzysztof",
+        "nazwisko": "Mazur",
+        "tel": "987654123",
+        "email": "krzysztof.mazur@example.pl",
+        "ulica": "Polna",
+        "miasto": "Radom",
+        "kod": "26-600"
+    },
+    {
+        "imie": "Joanna",
+        "nazwisko": "Sikora",
+        "tel": "123456987",
+        "email": "joanna.sikora@example.pl",
+        "ulica": "Leśna",
+        "miasto": "Kielce",
+        "kod": "25-001"
+    },
+    {
+        "imie": "Grzegorz",
+        "nazwisko": "Ostrowski",
+        "tel": "789654123",
+        "email": "grzegorz.ostrowski@example.pl",
+        "ulica": "Zielona",
+        "miasto": "Olsztyn",
+        "kod": "10-001"
+    },
+    {
+        "imie": "Monika",
+        "nazwisko": "Pawlak",
+        "tel": "456123789",
+        "email": "monika.pawlak@example.pl",
+        "ulica": "Różana",
+        "miasto": "Gliwice",
+        "kod": "44-100"
+    },
+    {
+        "imie": "Łukasz",
+        "nazwisko": "Górski",
+        "tel": "321456987",
+        "email": "lukasz.gorski@example.pl",
+        "ulica": "Wrzosowa",
+        "miasto": "Zielona Góra",
+        "kod": "65-001"
+    }
+]
