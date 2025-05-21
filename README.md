@@ -29,7 +29,6 @@ python main.py
 - `gui_szukaj.py` – wyszukiwanie i edycja kontaktów
 - `gui_statystyki.py` – statystyki kontaktów
 - `data_manager.py` – obsługa danych i backupu
-- `ksiazka_aio.py` – cały kod zebrany w jednym pliku (alternatywa)
 - `kontakty.json` – przykładowy plik z kontaktami (dane użytkownika)
 - `backup.db` – baza danych do backupu
 - `logo.svg` – ikona aplikacji
