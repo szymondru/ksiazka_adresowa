@@ -33,7 +33,7 @@ class ProgramGlowny(QMainWindow):
         fmenu = self.menuBar().addMenu("Program")
         fmenu.addAction(QAction("O programie ", self,
                                     triggered=lambda: QMessageBox.information(self, "O programie",
-                                    "Książka adresowa \nAutor: Szymon D\n")))
+                                    "Książka adresowa \nAutor: Szymon Druszcz\n")))
         fmenu.addSeparator()
         fmenu.addAction(QAction("Zamknij ", self, shortcut="Ctrl+Q", triggered=self.close))
 
