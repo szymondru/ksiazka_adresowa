@@ -41,7 +41,7 @@ python main.py
 
 ## Autor
 
-Szymon D
+Szymon Druszcz
 
 ---
 
