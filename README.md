@@ -23,14 +23,20 @@ python main.py
 
 ## Pliki
 
-- `ksiazka_aio.py` – główny plik aplikacji
-- `kontakty.json` – plik z kontaktami (tworzy się automatycznie)
-- `backup.db` – kopia zapasowa kontaktów (tworzy się automatycznie)
+- `main.py` – uruchamia aplikację
+- `gui_main.py` – strona główna i nawigacja
+- `gui_nowy_kontakt.py` – dodawanie kontaktu
+- `gui_szukaj.py` – wyszukiwanie i edycja kontaktów
+- `gui_statystyki.py` – statystyki kontaktów
+- `data_manager.py` – obsługa danych i backupu
+- `ksiazka_aio.py` – cały kod zebrany w jednym pliku (alternatywa)
+- `kontakty.json` – plik z kontaktami (dane użytkownika)
+- `backup.db` – baza danych do backupu
 - `logo.svg` – ikona aplikacji
 
 ## Uwagi
 
-- Program automatycznie przywraca dane z kopii zapasowej, jeśli plik `kontakty.json` zostanie uszkodzony.
+- Program automatycznie przywraca dane z kopii zapasowej (`backup.db`), jeśli plik `kontakty.json` zostanie uszkodzony.
 - Wszystkie dane są przechowywane lokalnie.
 
 ## Autor
